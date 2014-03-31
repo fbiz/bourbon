@@ -3,7 +3,7 @@ Bourbon README for getting the gh-pages server up and running
 ------------------------------------------------------------------------------------------
 
 Run the server locally:
-    `$ jekyll --server`
+    `$ jekyll serve -w`
 
 To install bourbon:
     `$ gem install bourbon`
